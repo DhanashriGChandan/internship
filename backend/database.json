@@ -1,0 +1,27 @@
+{
+  "scans": [
+    {
+      "id": 1786812097296,
+      "url": "https://google.com",
+      "timestamp": "2026-08-15T16:41:37.296Z",
+      "riskScore": 0,
+      "classification": "Likely Safe",
+      "mlPrediction": 0,
+      "mlLabel": "Legitimate",
+      "confidence": 0.99,
+      "features": {
+        "urlLength": 18,
+        "hasHTTPS": true,
+        "numberOfDots": 1,
+        "numberOfSubdomains": 0,
+        "hasIPAddress": false,
+        "hasAtSymbol": false,
+        "hasHyphen": false,
+        "hasSuspiciousKeyword": false,
+        "numberOfSpecialCharacters": 4,
+        "riskScore": 0,
+        "classification": "Likely Safe"
+      }
+    }
+  ]
+}
